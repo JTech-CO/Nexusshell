@@ -2,6 +2,8 @@
 
 > **Terminal-styled YouTube & SoundCloud downloader — paste a link, get the file on your device.**
 
+<img src="https://raw.githubusercontent.com/JTech-CO/Nexusshell/refs/heads/main/images/1-Download.png" width="100%"> 
+
 **▶ Live service: [https://nexusshell.kr](https://nexusshell.kr)**
 
 NexusShell strips away the ads and clutter of typical web downloaders and replaces them with a clean, keyboard-friendly terminal-style interface. Paste a YouTube or SoundCloud link, pick a format, and the file is delivered straight to your device.
@@ -25,6 +27,8 @@ NexusShell strips away the ads and clutter of typical web downloaders and replac
 2. NexusShell analyzes it and lists the available formats (or detects a playlist/set).
 3. Pick a format and start the download.
 4. When it finishes, your browser saves the file to your device automatically (playlists provide a per-file link list).
+
+<img src="https://raw.githubusercontent.com/JTech-CO/Nexusshell/refs/heads/main/images/2-Queue.png" width="100%"> 
 
 ## Built with
 
