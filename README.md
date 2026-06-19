@@ -1,4 +1,4 @@
-# NexusShell
+# Nexusshell
 
 > **Terminal-styled YouTube & SoundCloud downloader — paste a link, get the file on your device.**
 
